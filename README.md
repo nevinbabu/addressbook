@@ -1,5 +1,3 @@
-
-dsadsa
 Addressbook Tutorial
 ====================
 
